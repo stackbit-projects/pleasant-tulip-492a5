@@ -268,7 +268,6 @@ sections:
       together
     media:
       type: ImageBlock
-      url: /images/Image-on-the-right.svg
       altText: Hero section image
     styles:
       self:
