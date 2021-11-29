@@ -58,7 +58,7 @@ sections:
       product.
     actions:
       - type: Button
-        label: Sign Up
+        label: Sign
         url: /
         style: secondary
       - type: Link
