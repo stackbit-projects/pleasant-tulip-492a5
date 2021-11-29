@@ -113,7 +113,7 @@ sections:
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /images/faster.svg
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
