@@ -58,7 +58,7 @@ sections:
       product.
     actions:
       - type: Button
-        label: Sign
+        label: Sign sdvsdv
         url: /
         style: secondary
       - type: Link
