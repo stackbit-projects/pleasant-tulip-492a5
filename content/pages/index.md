@@ -100,7 +100,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/apple.svg
+      url: /images/dianne-ameter.jpg
     backgroundImage:
       url: /images/careers.jpg
       altText: altText of the image
