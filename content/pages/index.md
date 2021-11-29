@@ -269,6 +269,7 @@ sections:
     media:
       type: ImageBlock
       altText: Hero section image
+      url: /images/desmond-eagle.jpg
     styles:
       self:
         height: auto
